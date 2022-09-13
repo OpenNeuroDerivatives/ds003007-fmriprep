@@ -1,7 +1,0 @@
-{
-  "RawSources": [
-    "sub-22/ses-post/anat/sub-22_ses-post_T1w.nii.gz",
-    "sub-22/ses-pre/anat/sub-22_ses-pre_T1w.nii.gz"
-  ],
-  "Type": "Brain"
-}
