@@ -1,0 +1,16 @@
+WARNING (08/09/22 15:39:02): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4708477.hostlist.Xy6iz93Q to get hosts
+starting job on c153-011
+starting job on c153-054
+starting job on c153-103
+starting job on c153-112
+starting job on c153-122
+starting job on c153-184
+starting job on c153-203
+starting job on c154-024
+Warning: Permanently added 'c153-011' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c153-184' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c153-112' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c153-122' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c153-203' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c154-024' (ED25519) to the list of known hosts.
